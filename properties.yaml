@@ -1,0 +1,18 @@
+highlightstyle: railscasts
+credits: Diarmuid O' Connor. SETU
+license: Unless otherwise stated, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+ects: 10
+faPanelicon: fas fa-code-branch
+faColour: "#ffd600"
+slack: https://cloudapps-hq.slack.com
+moodle: https://moodle.wit.ie/course/view.php?id=199949
+
+ignorepin: 1213
+ignore:
+  # - topic02
+  # - topic03
+  - topic04
+  # - topic05
+  - topic01-applied
+  - topic02-applied
+  - topic90

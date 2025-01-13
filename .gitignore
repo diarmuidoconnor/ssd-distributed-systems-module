@@ -1,0 +1,9 @@
+node_modules/
+/**/.DS_S*
+reactSolutions/
+private-site-uk/
+public-site-uk/
+public-site/
+admin/results/
+
+notes.md
