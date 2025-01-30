@@ -9,7 +9,7 @@ moodle: https://moodle.wit.ie/course/view.php?id=199949
 
 ignorepin: 1213
 ignore:
-   - topic02
+   # - topic02
    - topic01-applied
    - topic03
    - topic04
