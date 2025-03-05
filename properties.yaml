@@ -15,5 +15,5 @@ ignore:
    - topic04
    - topic05
    - topic02-applied
-   - topic13
+   # - topic13
    - topic90
