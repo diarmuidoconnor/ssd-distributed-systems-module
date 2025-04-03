@@ -1,3 +1,3 @@
-# Messaging Services - SQS.
+# CloudFront Services - SQS.
  
-The AWS SQS messaging service and how it supports Event-Driven architecture.
+CloudFront provides a CDN, which can improve the web frontend experience.
